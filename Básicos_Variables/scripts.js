@@ -34,6 +34,7 @@ console.log(h(2,1))
 ;
 frffghhhhh
 m  n n   h 
+mkvnnngnfngofnoggnfdonngofnono
 let var1=h(5,1);
 console.log(var1);
 const s1=()=>({Nombre:"Juan",Apellido:"Pérez"});
