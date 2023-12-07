@@ -28,6 +28,7 @@ prueba1();
 const prueba2=(a1,a2)=>a1+a2;
 console.log(prueba2(2,2));
 console.log(prueba2(2,4));
+
 const h=(x1,x2)=>x1+x2;
 console.log(h(2,1))
 ;
