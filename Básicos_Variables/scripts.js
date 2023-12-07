@@ -33,6 +33,7 @@ const h=(x1,x2)=>x1+x2;
 console.log(h(2,1))
 ;
 frffghhhhh
+m  n n   h 
 let var1=h(5,1);
 console.log(var1);
 const s1=()=>({Nombre:"Juan",Apellido:"Pérez"});
