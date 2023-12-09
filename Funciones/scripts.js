@@ -10,7 +10,7 @@ function hi(){
     }
 }
 /*
-//Llamamos a la función...
+//Llamamos a la función... o no
 hi()
 */
 
